@@ -1,4 +1,9 @@
+framework: auto-detect
 source https://nuget.org/api/v2
 
 nuget Autofac
+nuget FluentAssertions
 nuget ServiceStack >= 4
+nuget ServiceStack.Client
+nuget ServiceStack.HttpClient
+nuget xunit
